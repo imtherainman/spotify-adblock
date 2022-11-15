@@ -4,6 +4,7 @@ const blacklist = [
   "https://spclient.wg.spotify.com/gabo-receiver-service/**",
   "**/*sentry.io*/**",
   "**/*googleapis*/**",
+  "**/*doubleclick*/**",
 ];
 
 module.exports = blacklist;
